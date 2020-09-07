@@ -86,7 +86,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'decide.urls'
 
 
- = {}
+APIS = {}
 
 TEMPLATES = [
     {
